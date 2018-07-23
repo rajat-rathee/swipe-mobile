@@ -1,2 +1,4 @@
 # swipe-mobile
-First attempt at creating a mobile app. It's a graphically beautiful fun and challenging arcade style game.
+My first ever mobile application. Made with lots of trial & error, long nights, and self deprecation. 
+
+Download link: https://play.google.com/store/apps/details?id=com.CloudySkiesMobile.Swipe
